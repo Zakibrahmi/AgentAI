@@ -1,6 +1,4 @@
- AgentAI
-
-               #Agents in LangChain
+#Agents in LangChain
                
 Agent Architecture:
 
