@@ -1,4 +1,7 @@
-# Agents in LangChain
+
+This repot is about exploring AI agent Frameworks based on Tutorails 
+
+# 1. Agents in LangChain
                
 ## Agent Architecture:
 
@@ -10,5 +13,7 @@ ReAct defines how the LLM reasons about tasks, selects actions, and utilizes too
 
 LangChain a framework for developing applications powered by LLM. It provides tools to manage prompts, connect to external data sources, and create chains of calls to LLMs or other utilities.
 
+# 2. CrewAI Framwork
+CrewAI is a cutting-edge framework for orchestrating autonomous AI agents.
 
-# CrewAI Framwork
+
